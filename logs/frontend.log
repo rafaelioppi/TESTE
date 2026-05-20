@@ -1,0 +1,15 @@
+
+> teste-front@0.0.1 dev
+> vite
+
+
+  VITE v5.4.21  ready in 683 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+1:44:47 PM [vite] vite.config.js changed, restarting server...
+1:44:47 PM [vite] hmr update /src/App.jsx
+1:44:47 PM [vite] server restarted.
+1:44:55 PM [vite] vite.config.js changed, restarting server...
+1:44:55 PM [vite] hmr update /src/App.jsx
+1:44:55 PM [vite] server restarted.
